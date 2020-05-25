@@ -106,9 +106,9 @@ main {
 
 .text img {
     position: absolute;
-    left: 90%;
-    top: -25%;
-    width: 100%;
+    left: 600px;
+    top: -5%;
+    width: 80%;
 }
 
 .btn {
